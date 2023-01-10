@@ -3,27 +3,13 @@
 ```diff
 @@Mikaelly Felicio (mikl/miku)@@
 
-👩‍💻 junior devsecops at everis
+👩‍💻 cloud security engineer at nubank
 + living in joão pessoa, 🇧🇷.
-- 24
+- 26
 🖥️ pentest, dev{sec}ops & cloud security
 🎭 fantasy books & horror movies
 ```
 ![](https://komarev.com/ghpvc/?username=c4rc4r4&color=8aaf52)
-
-<p align="right">  
-    <a href="https://www.linkedin.com/in/mikaellyfpedrosa/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-256.png" width="32" height="32" />
-    </a>
-    <a href="https://twitter.com/c4cto_"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-256.png" width="32" height="32" />
-    </a>
- <a href="https://www.instagram.com/miklfelicio/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" width="32" height="32" />
-    </a>
-     </a>
- <a href="https://www.skoob.com.br/usuario/5639979"><img src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/skoob-512.png" width="32" height="32" />
-    </a>
- <a href="https://filmow.com/usuario/c4ctus"><img src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/filmow-512.png" width="32" height="32" />
-    </a>
-<br />
 <br />
 
 ![](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
